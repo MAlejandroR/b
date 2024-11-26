@@ -5,7 +5,7 @@ var relearn_searchindex = [
     "description": "Tema1 asdfasdfsadf",
     "tags": [],
     "title": "Tema1",
-    "uri": "/teoria/tema1/index.html"
+    "uri": "/b/teoria/tema1/index.html"
   },
   {
     "breadcrumb": "",
@@ -13,7 +13,7 @@ var relearn_searchindex = [
     "description": "Sintaxis adsafasdfasdf",
     "tags": [],
     "title": "Teoria",
-    "uri": "/teoria/index.html"
+    "uri": "/b/teoria/index.html"
   },
   {
     "breadcrumb": "",
@@ -21,7 +21,7 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Categories",
-    "uri": "/categories/index.html"
+    "uri": "/b/categories/index.html"
   },
   {
     "breadcrumb": "",
@@ -29,6 +29,6 @@ var relearn_searchindex = [
     "description": "",
     "tags": [],
     "title": "Tags",
-    "uri": "/tags/index.html"
+    "uri": "/b/tags/index.html"
   }
 ]
