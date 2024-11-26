@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Teoria :: My New Hugo Site</title>
+    <link>http://localhost:1313/teoria/index.html</link>
+    <description>Sintaxis adsafasdfasdf</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 Nov 2024 09:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/teoria/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tema1</title>
+      <link>http://localhost:1313/teoria/tema1/index.html</link>
+      <pubDate>Tue, 26 Nov 2024 09:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/teoria/tema1/index.html</guid>
+      <description>Tema1 asdfasdfsadf</description>
+    </item>
+  </channel>
+</rss>
